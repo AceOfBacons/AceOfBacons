@@ -1,16 +1,16 @@
 [![MasterHead](https://giffiles.alphacoders.com/146/14616.gif)](https://aceofbacons.github.io/pablo-react-portfolio/)
 <h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">Passionate Game Developer currently doing QA for Joydrop Games</h3>
+<h3 align="center">Passionate QA Engineer currently looking for a new opportunity that leverages my skills</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceofbacons" alt="aceofbacons" /></a> </p>
 
 - 🔭 I’m currently working on [UE5 Startup Fantasy Game](https://github.com/Elite-Centennial/Remembering-Wallace)
 
-- 🌱 I’m currently learning **Unreal Engine 5 and React**
+- 🌱 I’m currently learning **Cypress and ISTQB Certification**
 
 - 👨‍💻 All of my projects are available at [https://aceofbacons.github.io/pablo-react-portfolio/](https://aceofbacons.github.io/pablo-react-portfolio/)
 
-- 💬 Ask me about **Unity, C# and Gameplay Design**
+- 💬 Ask me about **Automation, Manual Testing and API Integration**
 
 - 📫 How to reach me **p.s.g2000@hotmail.com**
 
