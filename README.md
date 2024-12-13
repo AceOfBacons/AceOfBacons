@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aceofbacons" alt="aceofbacons" /></a> </p>
 
-- 🔭 I’m currently working on [UE5 RPG Fantasy Game][Selenium UI end-to-end automation on https://www.demoblaze.com/#](https://github.com/Elite-Centennial/Remembering-Wallace)
+- 🔭 I’m currently working on: UE5 RPG Fantasy Game & Selenium UI end-to-end Automation on https://www.demoblaze.com/#(https://github.com/Elite-Centennial/Remembering-Wallace)
 
 - 🌱 I’m currently learning **Cypress, ISTQB Certification, Unreal Engine Automation**
 
