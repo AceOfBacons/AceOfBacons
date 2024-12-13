@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pablo saldarriaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo saldarriaga" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pablosaldarriaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pablosaldarriaga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pablo-saldarriaga-gonzalez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablo saldarriaga" height="30" width="40" /></a>
+<a href="https://stackexchange.com/users/23386811/pablo-saldarriaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pablosaldarriaga" height="30" width="40" /></a>
 <a href="https://instagram.com/pablo_saldago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pablo_saldago" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aceofbacons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aceofbacons" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aceofbacons3225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aceofbacons" height="30" width="40" /></a>
 <a href="https://discord.gg/AceOfBacons#9460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AceOfBacons#9460" height="30" width="40" /></a>
 </p>
 
